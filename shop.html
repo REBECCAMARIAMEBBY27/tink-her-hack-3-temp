@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Shop - Coconut Products</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .menu ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        .menu ul li {
+            position: relative;
+            margin-right: 20px;
+        }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            padding: 10px 15px;
+            display: block;
+        }
+
+        .menu ul li:hover .dropdown {
+            display: block;
+        }
+
+        .dropdown {
+            display: none;
+            position: absolute;
+            top: 40px;
+            left: 0;
+            background-color: rgb(107, 174, 115);
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        .dropdown ul {
+            display: block;
+        }
+
+        .dropdown ul li {
+            margin: 0;
+        }
+
+        .dropdown ul li a {
+            padding: 10px 20px;
+            font-size: 16px;
+            white-space: nowrap;
+        }
+
+        .dropdown ul li a:hover {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">PraRoz</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="index.html"></a>HOME</li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="shop.html">CATEGORIES</a>
+                        <div class="dropdown">
+                            <ul>
+                                <li><a href="cosmetics.html">Cosmetics</a></li>
+                                <li><a href="oil.html">Oil</a></li>
+                                <li><a href="water.html">Coconut Water</a></li>
+                                <li><a href="shell art.html">Shell Art</a></li>
+                            </ul>
+                        </div></li>
+                    <li><a href="#">SELLER</a></li>
+                    <li><a href="#">CONTACT</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="products">
+            <h1>Over View</h1>
+            <div class="product-list">
+                <div class="product">
+                    <h2>Coconut Oil</h2>
+                    <p>Pure organic coconut oil for cooking and skincare.</p>
+                    <p>Price: ₹10</p>
+                </div>
+                <div class="product">
+                    <h2>Coconut Water</h2>
+                    <p>Fresh and natural coconut water for hydration.</p>
+                    <p>Price: ₹3</p>
+                </div>
+                <div class="product">
+                    <h2>Desiccated Coconut</h2>
+                    <p>High-quality shredded coconut for baking and cooking.</p>
+                    <p>Price: ₹5</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
