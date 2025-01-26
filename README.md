@@ -29,22 +29,6 @@ product and ear through it!!!!]
 ### Technologies/Components Used
 For Software:
 - [Html,Css,Javascript]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
@@ -66,38 +50,9 @@ are available in the market
 *The seller icon provides the platform for the makers and providers to register their product and sell it through this website*
 ![seller detail collection](https://github.com/user-attachments/assets/fc16b3d3-c330-43e1-bff5-c732e33ba0cf)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Rebecca Mariam Ebby]: [Git Hub,Front End]
