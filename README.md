@@ -93,7 +93,7 @@ For Hardware:
 
 ## Team Contributions
 - [Rebecca Mariam Ebby]: [Git Hub,Front End]
-- [Krishnapriya A L]: [FrontEnd]
+- [Krishnapriya A L]: [Front End]
 - [Niya Aniyan]: [Front End]
 
 ---
