@@ -53,13 +53,16 @@ For Software:
 *Front page of our website*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-![shop icon dropdown](https://github.com/user-attachments/assets/7add1197-57da-499a-8345-6b99715da8bb)
+*Shop icon navigates to shopping page and categories provides a dropdown list of products that
+are available in the market
+
+![shop cart dropdown](https://github.com/user-attachments/assets/16e8dcbb-a23c-4d1b-a2ff-0515fc5d30d7)
 
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*The seller icon provides the platform for the makers and providers to register their product and sell it through this website*
+![seller detail collection](https://github.com/user-attachments/assets/fc16b3d3-c330-43e1-bff5-c732e33ba0cf)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
