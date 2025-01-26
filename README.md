@@ -49,10 +49,14 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-01-26 101802](https://github.com/user-attachments/assets/900dc674-aff9-4bc5-8cda-6496276b9d95)
+*Front page of our website*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+![shop icon dropdown](https://github.com/user-attachments/assets/7add1197-57da-499a-8345-6b99715da8bb)
+
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
