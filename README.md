@@ -11,7 +11,7 @@
 - Member 3: [Krishnapriya A L] - [LBSITW]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[coco-dump.vercel.app]
 
 ### Project Description
 [A website which exclusively sells coconut based products and also 
@@ -94,7 +94,6 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Ad"C:\Users\user\Videos\Screen Recordings\Screen Recording 2025-01-26 103015.mp4"d your demo video link here]
 *Explain what the video demonstrates*
 
 # Additional Demos
