@@ -18,10 +18,12 @@
 helps to sell products!!!]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[What ridiculous problem are you solving?
+    We face difficulties in finding coconut based products outside of india and also to sell the coconut shell artifacts.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[So we came up with an idea  to create a website which can  exclusively market the products and also helps small cap businsiners who can register their coconut based 
+product and ear through it!!!!]
 
 ## Technical Details
 ### Technologies/Components Used
