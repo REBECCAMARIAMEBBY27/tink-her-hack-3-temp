@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Contact & Feedback</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Styling for the contact page with a consistent background */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, rgba(6, 5, 5, 0.753) 50%, rgba(6, 5, 5, 0.753) 50%), url("cococ6.jpg");
+            background-position: center;
+            background-size: cover;
+            height: 100vh;
+            color:black;
+        }
+
+        .contact-feedback-container {
+            width: 60%;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        .contact-feedback-container h2, 
+        .contact-feedback-container h3 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+
+        .contact-info {
+            text-align: center;
+            margin-bottom: 30px;
+            color:#ff7200
+        }
+
+        .contact-info p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .contact-feedback-container form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .contact-feedback-container input, 
+        .contact-feedback-container textarea, 
+        .contact-feedback-container button {
+            width: 80%; /* Medium width */
+            margin-bottom: 15px;
+            padding: 12px; /* Medium padding */
+            font-size: 18px; /* Medium text size */
+            border: none;
+            border-radius: 5px;
+        }
+
+        .contact-feedback-container input, 
+        .contact-feedback-container textarea {
+            background: rgba(126, 124, 123, 0.8);
+            color: #000;
+        }
+
+        .contact-feedback-container input::placeholder, 
+        .contact-feedback-container textarea::placeholder {
+            color: #555;
+        }
+
+        .contact-feedback-container button {
+            background-color: #333;
+            color: white;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .contact-feedback-container button:hover {
+            background-color:#ff7200;
+        }
+
+        .navbar {
+            width: 1200px;
+            height: 65px;
+            margin: auto;
+        }
+
+        .icon {
+            width: 200px;
+            float: left;
+            height: 70px;
+        }
+
+        .logo {
+            color: #ff7200;
+            font-size: 35px;
+            font-family: Arial;
+            padding-left: 20px;
+            float: left;
+            padding-top: 10px;
+            margin-top: 5px;
+        }
+
+        .menu {
+            width: 400px;
+            float: left;
+            height: 70px;
+        }
+
+        .menu ul {
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            height: 100%;
+        }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .menu ul li a:hover {
+            color: #ff7200;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <div class="icon">
+            <h2 class="logo">CoCo<br>DuMp</h2>
+        </div>
+
+        <div class="menu">
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="shop.html">SHOP</a></li>
+                <li><a href="seller.html">SELLER</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Contact and Feedback Section -->
+    <div class="contact-feedback-container">
+        <!-- Contact Information -->
+        <h2>CONTACT INFORMATION</h2>
+        <div class="contact-info">
+            <p>Email: <strong>support@cocodump.com</strong></p>
+            <p>Phone: <strong>+123-456-7890</strong></p>
+            <p>Address: <strong>123 Coconut Lane, Tropical City</strong></p>
+        </div>
+
+        <!-- Feedback Form -->
+        <h3>Feedback Form</h3>
+        <form>
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="feedback" placeholder="Your Feedback" rows="4" required></textarea>
+            <button type="submit">Submit Feedback</button>
+        </form>
+    </div>
+</body>
+</html>

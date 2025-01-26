@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ABOUT US</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .menu ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        .menu ul li {
+            position: relative;
+            margin-right: 20px;
+        }
+
+        .menu ul li a {
+            text-decoration: none;
+            color: rgb(239, 235, 235);
+            font-size: 18px;
+            padding: 10px 15px;
+            display: block;
+        }
+
+        .menu ul li:hover .dropdown {
+            display: block;
+        }
+        .about-section {
+            text-align: center;
+            padding: 40px 20px;
+            background-color:transparent;
+            margin-top: 40px;
+            letter-spacing: 2px;
+        }
+
+        
+        .about-section h1 {
+            font-family: 'Gill Sans';
+            font-size: 42px;  
+            color: #80b36a;   
+        }
+        .about-section p {
+            font-size: 20px;  
+            color: #ffffff;      
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .about-section button {
+            background-color: #ff7200;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+
+        .about-section button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">CoCoDuMp</h2>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="shop.html">SHOP</a></li>
+                    <li><a href="seller.html">SELLER</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="about-section">
+            <h1>Welcome to CoCo DuMp</h1>
+            <p>
+                At CoCo DuMp, we bring you the finest natural wellness products to enhance your everyday life. From enriching your skincare routine to boosting your overall health with natural ingredients, our collection is designed with care and love. We believe in the power of nature to rejuvenate, heal, and improve your lifestyle.
+            </p>
+            <p>
+                Whether you're seeking a healthier diet, better skincare, or natural remedies for your home, we provide products that are carefully sourced to help you feel your best inside and out. Explore our shop today and start your wellness journey with us.
+            </p>
+            <button onclick="window.location.href='read.html';">Read More</button>
+        </div>
+    </div>
+</body>
+</html>

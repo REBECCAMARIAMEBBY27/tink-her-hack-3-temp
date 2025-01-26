@@ -264,13 +264,22 @@ ul li a:hover{
     color: #ff7200;
 }
 .products {
-    padding: 20px;
-    background-color: #f4f4f4;
+    margin-top: 40px;
+    padding: 25px;
+    background-color:rgba(6, 5, 5, 0.579);
+    height:30px
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
 }
 
 .products h1 {
     text-align: center;
-    margin-bottom: 20px;
+    color:#ff7200;
+    font-family:  'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    letter-spacing: 10px;
 }
 .product-list {
     display: flex;
@@ -288,6 +297,7 @@ ul li a:hover{
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
 .product h2 {
     color: #333;
