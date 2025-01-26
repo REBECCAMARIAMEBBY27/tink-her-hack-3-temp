@@ -1,4 +1,4 @@
-# [Project Name] 🎯
+# [COCO-DUMP] 🎯
 
 
 ## Basic Details
@@ -14,7 +14,8 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A website which exclusively sells coconut based products and also 
+helps to sell products!!!]
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
@@ -25,7 +26,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Html,Css,Javascript]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -91,9 +92,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Rebecca Mariam Ebby]: [Git Hub,Front End]
+- [Krishnapriya A L]: [Front End]
+- [Niya Aniyan]: [Front End]
 
 ---
 Made with ❤️ at TinkerHub
